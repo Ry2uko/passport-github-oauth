@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body, html {
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden;
+}
+
+div.btn-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin: 5rem 0;
+}
+
+a#loginGithub {
+  text-decoration: none;
+  font-size: 1.04rem;
+  border-radius: 0.15rem;
+  padding: 6px 15px 6px 10px;
+}
+
+a#loginGithub i {
+  margin-right: 7px;
+}
+/*# sourceMappingURL=login.css.map */

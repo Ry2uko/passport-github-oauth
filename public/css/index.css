@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body, html {
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden;
+}
+
+.container {
+  margin: 2rem;
+}
+
+a#logOut {
+  margin-top: 2rem;
+  padding: 6px 20px;
+}
+/*# sourceMappingURL=index.css.map */
